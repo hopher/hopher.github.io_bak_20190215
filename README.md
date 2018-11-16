@@ -1,5 +1,7 @@
 # hopher.github.io
 
+[![Build Status](https://www.travis-ci.org/hopher/hopher.github.io.svg?branch=src)](https://travis-ci.org/hopher/hopher.github.io)
+
 ## 开启服务
 
 ```
@@ -25,3 +27,8 @@ find . \( -type d -empty \) -and \( -not -regex ./\.git.* \) -exec touch {}/.git
 ```
 find ./ -type f -name '.gitkeep' -delete
 ```
+
+## Travis CI 集成测试教程
+
+- [GitHub Pages 布署](https://docs.travis-ci.com/user/deployment/pages/)
+- [Building a Go Project](https://docs.travis-ci.com/user/languages/go/)
