@@ -1,7 +1,0 @@
-baseURL = ""
-languageCode = "en-us"
-title = "Hopher's Blog"
-theme = "basics"
-
-[params]
-    github = "hopher"
