@@ -32,3 +32,15 @@ find ./ -type f -name '.gitkeep' -delete
 
 - [GitHub Pages 布署](https://docs.travis-ci.com/user/deployment/pages/)
 - [Building a Go Project](https://docs.travis-ci.com/user/languages/go/)
+
+### 其它步骤 
+
+#### 创建 GITHUB_TOKEN 变量
+
+https://github.com/settings/tokens
+
+#### 添加 Travis CI 环境变量
+
+将 GITHUB_TOKEN 添加到 Environment Variables
+
+https://travis-ci.com/hopher/hopher.github.io/settings
