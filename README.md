@@ -1,6 +1,6 @@
 # hopher.github.io
 
-[![Build Status](https://www.travis-ci.org/hopher/hopher.github.io.svg?branch=src)](https://travis-ci.org/hopher/hopher.github.io)
+[![Build Status](https://travis-ci.com/hopher/hopher.github.io.svg?branch=src)](https://travis-ci.com/hopher/hopher.github.io)
 
 ## 开启服务
 
