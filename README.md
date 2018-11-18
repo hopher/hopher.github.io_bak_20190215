@@ -11,7 +11,7 @@ hugo server -D --bind=0.0.0.0
 ## 添加文章
 
 ```
-hugo new posts/my-first-post.md
+hugo new posts/201811/my-first-post/index.md
 ```
 
 ## 空文件夹处理

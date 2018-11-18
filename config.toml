@@ -1,7 +1,10 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "Hopher's Blog"
 theme = "basics"
+
+[permalinks]
+  post = "/:year:month/:slug/"  
 
 [params]
     github = "hopher"
