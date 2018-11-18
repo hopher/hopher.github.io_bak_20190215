@@ -41,9 +41,11 @@ find ./ -type f -name '.gitkeep' -delete
 
 1. 创建master和src分支，src用于存放hugo文件，master存放hugo静态页
 
-2. 创建 GITHUB_TOKEN 变量
+2. 创建 GITHUB_TOKEN 变量，并勾选权限repo
 
     https://github.com/settings/tokens
+
+    ![github_token.png](github_token.png)
 
 3. 添加 Travis CI 环境变量
 
