@@ -14,6 +14,13 @@ hugo server -D --bind=0.0.0.0
 hugo new posts/201811/my-first-post/index.md
 ```
 
+或使用`shell`脚本
+
+```
+chmod +x create.sh
+./create.sh my-first-post
+```
+
 ## 空文件夹处理
 
 ### 创建空文件夹
