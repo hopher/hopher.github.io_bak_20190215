@@ -6,18 +6,18 @@
     <description>Recent content in Posts on Hopher&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Nov 2018 11:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Nov 2018 03:18:49 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Fri, 16 Nov 2018 11:33:59 +0000</pubDate>
+      <link>/posts/201811/my-first-post/</link>
+      <pubDate>Sun, 18 Nov 2018 03:18:49 +0000</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description>&amp;lt;?php echo &amp;quot;hello world&amp;quot;;  </description>
+      <guid>/posts/201811/my-first-post/</guid>
+      <description> Img Test Hello world Golang  package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello world&amp;quot;) }  PHP echo &amp;quot;Hello world&amp;quot;;  </description>
     </item>
     
   </channel>
