@@ -53,6 +53,8 @@ find ./ -type f -name '.gitkeep' -delete
 
     https://travis-ci.com/hopher/hopher.github.io/settings
 
+    > **注意：** 根据自己的用户名(hopher)，修改链接地址
+
 4. 在项目根目录创建 `.travis.yml` 文件，并添加下面内容
 
 
