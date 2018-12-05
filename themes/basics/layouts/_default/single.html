@@ -9,20 +9,3 @@
   </div>
 </div>
 {{ end }}
-
-{{ if (.Params.gitment) }}
-<div id="git-comments"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-  var gitment = new Gitment({
-    owner: 'hopher',
-    repo: 'hopher.github.io',
-    oauth: {
-      client_id: '01139efcf19349cd0fb6',
-      client_secret: '69e92bf0fc46cdfe13e960c0d65bf6c00567ed4b',
-    }
-  })
-  gitment.render('git-comments')
-</script>
-{{ end }}
