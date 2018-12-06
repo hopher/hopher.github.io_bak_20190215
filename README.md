@@ -97,3 +97,9 @@ find ./ -type f -name '.gitkeep' -delete
 ## 主题模板
 
 - https://github.com/rujews/maupassant-hugo
+
+## docker 指令
+
+```
+docker exec -it mygolang /bin/bash
+```
