@@ -93,3 +93,7 @@ find ./ -type f -name '.gitkeep' -delete
 **参考资料**
 - [GitHub Pages 布署](https://docs.travis-ci.com/user/deployment/pages/)
 - [Building a Go Project](https://docs.travis-ci.com/user/languages/go/)    
+
+## 主题模板
+
+- https://github.com/rujews/maupassant-hugo
